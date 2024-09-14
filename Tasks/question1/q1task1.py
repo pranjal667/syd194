@@ -5,10 +5,10 @@ import os
 import pandas as pd
 
 # Specify the directory where your CSV files are located
-csv_folder = 'S:\present study material\master life\subjects\sem2\softwareNow\csvFiles'
+csv_folder = 'S:\present study material\master life\subjects\sem2\softwareNow\A2Syd194\csvFiles'
 
 # Specify the output directory
-output_folder = 'S:\present study material\master life\subjects\sem2\softwareNow\syd194\Tasks\question1'
+output_folder = 'S:\present study material\master life\subjects\sem2\softwareNow'
 
 # Create the output directory if it doesn't exist
 os.makedirs(output_folder, exist_ok=True)
